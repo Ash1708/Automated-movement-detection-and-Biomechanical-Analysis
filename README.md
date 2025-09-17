@@ -18,7 +18,7 @@ This project applies ‘pose estimation’ (MediaPipe) and signal processing to 
 ## Dependencies
 mediapipe, opencv-python, numpy, pandas, matplotlib
 
-- Example Output
+## Example Output
 
 | rep | start\_s | bottom\_s | end\_s | ROM\_deg | duration\_s | concentric\_s |
 | --- | -------- | --------- | ------ | -------- | ----------- | ------------- |
